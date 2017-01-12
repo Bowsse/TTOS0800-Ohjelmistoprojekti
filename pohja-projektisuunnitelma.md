@@ -1,5 +1,5 @@
 
-#Projektisuunnitelman sisältö#
+#Projektisuunnitelma pohja / sisältö#
 
 1. Toimeksianto
 tausta ja lähtökohdat, tavoitteet ja tehtävät, rajaus ja liittymät, tulos
