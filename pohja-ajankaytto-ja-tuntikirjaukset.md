@@ -3,7 +3,7 @@
 ![](https://openclipart.org/image/300px/svg_to_png/253205/project_manager.png&disposition=attachment)
 
 
-Tuntikirjaukset projektissa XXXXX
+Tuntikirjaukset ja kulut projektissa XXXXX
 
 ### NakkeNakuttaja 1
 
@@ -30,12 +30,22 @@ Yhteensä:36,5h
 
 Yhteensä:36,5h
 
+| Hankinnatä | Päivämäärä | Hinta |
+|:-:|:-:|:-:|
+| Kahvia  | 1.1.2018 | 10€ |
+| Kahvia  | 2.1.2018 | 10€ |
+| Kahvia  | 3.1.2018 | 10€ |
+| Kahvia  | 4.1.2018 | 10€ |
+
+Yhteensä: 40€  
 
 Projektin kokonaiskulut 5.1.2018
 
-*73h X 50 € = 3650*
-
-
+| Kuluerä | määrä |  hinta | Yhteensä |
+|:-:|:-:|:-:|:-:|
+| Työtunnit | 73 | 50 € | 3650€ |   
+| Hankinnat | 40 | 1 | 40 € |
+| Yhteensä: |- | - | 3690 € |
 
 
 Tai sitten [Toggl](https://www.toggl.com)
