@@ -1,8 +1,8 @@
+# Wiki muotoinen viestintäsuunnitelma.
+
 
 Alkuperäinen löytyy täältä! http://homes.jamk.fi/~huojo/opetus/IIZP2010/
 
-
-Tämä on wiki muotoinen viestintäsuunnitelman esimerkki..
 
 
 #	Johdanto
