@@ -30,6 +30,8 @@ Yhteensä:36,5h
 
 Yhteensä:36,5h
 
+### Hankinnat projektille
+
 | Hankinnatä | Päivämäärä | Hinta |
 |:-:|:-:|:-:|
 | Kahvia  | 1.1.2018 | 10€ |
@@ -39,13 +41,14 @@ Yhteensä:36,5h
 
 Yhteensä: 40€  
 
-Projektin kokonaiskulut 5.1.2018
 
-| Kuluerä | määrä |  hinta | Yhteensä |
+### Projektin kokonaiskulut 5.1.2018
+
+| Kuluerä | määrä |  hinta a | Yhteensä |
 |:-:|:-:|:-:|:-:|
 | Työtunnit | 73 | 50 € | 3650€ |   
-| Hankinnat | 40 | 1 | 40 € |
-| Yhteensä: |- | - | 3690 € |
+| Hankinnat | 4 | 10 € | 40 € |
+| *Yhteensä:* |- | - | 3690 € |
 
 
 Tai sitten [Toggl](https://www.toggl.com)
