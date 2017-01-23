@@ -1,10 +1,6 @@
 # Riskien hallintasuunnitelma
 
 
-
-Tarkempi kuvaus	Riskin luokittelu	Vakavuus	Tod.näköisyys	Tulo	Seurantavastuu	Ennaltaehkäisy	Mittari, jolla riski todetaan	Toimenpiteet toteutuessa
-
-
 | RISKI ID |	Kuvaus | Vakavuus | Todennäköisyys | Kuka hoitaa | Miten toimitaan | 
 |:--:|:--:|:--:|:--:|:--:|:--:|
 | RIS01 | Ryhmän jäsen sairastuu flunssaan |  V3 |  HessuHopo | Ilmoita tiiminvetäjälle ja tarvittaesssa asiakkaalle. |
