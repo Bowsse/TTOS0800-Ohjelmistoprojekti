@@ -17,6 +17,11 @@ Mitä pyritään tarkistamaan/testaamaan?
 
 ### Lähde testille
 
+Eli minkä pohjalta testi on suunniteltu?
+
+* [Esim. Käyttötapaus - Use Case](https://github.com/JAMK-IT/TTOS0100-Ohjelmistosuunnittelu-ja-testaus/blob/master/pohja-kayttotapauskuvaus.md)
+* [Esim. Ominaisuus - Feature](https://github.com/JAMK-IT/TTOS0100-Ohjelmistosuunnittelu-ja-testaus/blob/master/pohja-ominaisuuskuvaus.md)
+
 Minkä pohjalta testi on suunniteltu?
 
 * vaatimus,ominaisuus,
