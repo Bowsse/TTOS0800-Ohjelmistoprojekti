@@ -4,7 +4,8 @@ Versio 14.2.2017 By NarsuMan
 
 
 
-# Testauksen Yleissuunnitelma (Master Test Plan)
+# Testauksen päätestaussuunnitelma (Master Test Plan)
+
 
 
 
