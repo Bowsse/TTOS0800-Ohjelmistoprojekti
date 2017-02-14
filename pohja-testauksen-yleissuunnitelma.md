@@ -1,4 +1,6 @@
-Tämä dokumentti on elävä dokumenttipohja 
+
+*Tämä dokumentti on elävä dokumenttipohja, jota päivitetään tilanteen mukaan..*
+Versio 14.2.2017 By NarsuMan
 
 
 
