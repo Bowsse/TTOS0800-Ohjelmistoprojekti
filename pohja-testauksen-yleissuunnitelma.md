@@ -1,3 +1,34 @@
+Tämä dokumentti on elävä dokumenttipohja 
+
+
+
+**Dokumentin versio** 
+**omistaja**
+
+
+# Testauksen Yleissuunnitelma (Master Test Plan)
+
+Phasellus dignissim tempor ipsum in rhoncus. Vestibulum eget mi sed arcu sollicitudin rutrum euismod ac nunc. Maecenas auctor tincidunt magna sed ullamcorper. Aliquam erat volutpat. Pellentesque neque mi, venenatis ut vestibulum at, elementum vitae libero. Maecenas iaculis a libero in tincidunt. Aenean laoreet, arcu non condimentum vulputate, nisl erat vestibulum felis, in vulputate nisi nunc ut nisi. Nam turpis magna, porta venenatis eleifend a, congue vitae diam.
+
+## Testikohde (Test Target / System Under Test)
+
+Phasellus dignissim tempor ipsum in rhoncus. Vestibulum eget mi sed arcu sollicitudin rutrum euismod ac nunc. Maecenas auctor tincidunt magna sed ullamcorper. Aliquam erat volutpat. Pellentesque neque mi, venenatis ut vestibulum at, elementum vitae libero. Maecenas iaculis a libero in tincidunt. Aenean laoreet, arcu non condimentum vulputate, nisl erat vestibulum felis, in vulputate nisi nunc ut nisi. Nam turpis magna, porta venenatis eleifend a, congue vitae diam.
+
+## Testauksen yleiset tavoitteet ja tärkeimmät tehtävät (Test goals and primary needs)
+
+Maecenas iaculis a libero in tincidunt. Aenean laoreet, arcu non condimentum vulputate, nisl erat vestibulum felis, in vulputate nisi nunc ut nisi. Nam turpis magna, porta venenatis eleifend a, congue vitae diam. Maecenas iaculis a libero in tincidunt. Aenean laoreet, arcu non condimentum vulputate, nisl erat vestibulum felis, in vulputate nisi nunc ut nisi. Nam turpis magna, porta venenatis eleifend a, congue vitae diam.
+
+## Aikataulu (Schedule)
+
+* [Linkki projektisuunnitelmaan?]()
+
+## Julkaisusuunnitelma (Release Plan)
+
+* [Linkki alustavaan julkaisusuunnitelmaan ?]()
+
+### Testattavat ominaisuudet (Tested Features)
+
+
 | Otsikko 1 | Otsikko 2 | Otsikko 3 |
 |:-:|:-:|:-:|
 | | | 
@@ -57,3 +88,33 @@ Vestibulum molestie diam sit amet pretium pharetra. Praesent sagittis auctor con
 ## Testaus ja vianhallinnan prosessit
 
 Vestibulum molestie diam sit amet pretium pharetra. Praesent sagittis auctor convallis. Nulla augue sapien, ornare vel suscipit id, commodo id diam. Aliquam lorem urna, maximus in pretium pharetra, mollis eu lacus. Nam nunc erat, aliquet rutrum ultrices quis, fermentum vitae metus. In at nibh eu dui ultrices ultrices. Vestibulum mi mi, ultricies sed maximus eget, ultrices at nibh. Aenean vel turpis eu quam laoreet lobortis in eget tortor. Nunc vel arcu accumsan, finibus erat at, hendrerit elit. Ut fringilla eros a sollicitudin tincidunt.
+
+* Yleiset hyväksyntä kriteerit?
+* Yleiset hylkäys kriteerit?
+
+
+## Valittu testausstrategia
+
+In at nibh eu dui ultrices ultrices. Vestibulum mi mi, ultricies sed maximus eget, ultrices at nibh. Aenean vel turpis eu quam laoreet lobortis in eget tortor. Nunc vel arcu accumsan, finibus erat at, hendrerit elit. Ut fringilla eros a sollicitudin tincidunt.
+
+## Käytetyt testityövälineet ja ohjelmistot
+
+### Suorituskykytestaus
+
+Phasellus dignissim tempor ipsum in rhoncus. Vestibulum eget mi sed arcu sollicitudin rutrum euismod ac nunc. Maecenas auctor tincidunt magna sed ullamcorper. Aliquam erat volutpat. Pellentesque neque mi, venenatis ut vestibulum at, elementum vitae libero. Maecenas iaculis a libero in tincidunt. Aenean laoreet, arcu non condimentum vulputate, nisl erat vestibulum felis, in vulputate nisi nunc ut nisi. Nam turpis magna, porta venenatis eleifend a, congue vitae diam.
+
+### Toiminnallinentestaus
+
+Phasellus dignissim tempor ipsum in rhoncus. Vestibulum eget mi sed arcu sollicitudin rutrum euismod ac nunc. Maecenas auctor tincidunt magna sed ullamcorper. Aliquam erat volutpat. Pellentesque neque mi, venenatis ut vestibulum at, elementum vitae libero. Maecenas iaculis a libero in tincidunt. Aenean laoreet, arcu non condimentum vulputate, nisl erat vestibulum felis, in vulputate nisi nunc ut nisi. Nam turpis magna, porta venenatis eleifend a, congue vitae diam.
+
+### Tietoturvatestaus
+
+Phasellus dignissim tempor ipsum in rhoncus. Vestibulum eget mi sed arcu sollicitudin rutrum euismod ac nunc. Maecenas auctor tincidunt magna sed ullamcorper. Aliquam erat volutpat. Pellentesque neque mi, venenatis ut vestibulum at, elementum vitae libero. Maecenas iaculis a libero in tincidunt. Aenean laoreet, arcu non condimentum vulputate, nisl erat vestibulum felis, in vulputate nisi nunc ut nisi. Nam turpis magna, porta venenatis eleifend a, congue vitae diam.
+
+### Kuormitustestaus
+
+Phasellus dignissim tempor ipsum in rhoncus. Vestibulum eget mi sed arcu sollicitudin rutrum euismod ac nunc. Maecenas auctor tincidunt magna sed ullamcorper. Aliquam erat volutpat. Pellentesque neque mi, venenatis ut vestibulum at, elementum vitae libero. Maecenas iaculis a libero in tincidunt. Aenean laoreet, arcu non condimentum vulputate, nisl erat vestibulum felis, in vulputate nisi nunc ut nisi. Nam turpis magna, porta venenatis eleifend a, congue vitae diam.
+
+
+## Liitteet
+
