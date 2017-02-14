@@ -1,7 +1,10 @@
+Tämä on esimerkki testitapauksesta. Testien suunnittelu kannattaa tehdä tarkoitukseen paremmin soveltuvalla testaushallintatyövälineellä esim. [Testlink](http://testlink.org)
+
+
+
 ### Testitapaus ID  : TCID1234
 
-  * Testitapauksen suunnittelija: xxxx
-  * Testitapauksen hyväksyjä: xx
+  * Testitapauksen suunnittelija: *nimi*
   * Luontipvm : 26.0x.20xx
 
 ### Päivityshistoria
