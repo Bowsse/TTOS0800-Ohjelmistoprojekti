@@ -1,18 +1,18 @@
 #1.	JOHDANTO	
-< Loppuraportissa tulee ensisijaisesti vastata kysymyksiin: mitä ja miten tehtiin, miksi tehtiin, missä onnistuttiin, mikä meni pieleen, miksi ja miten ongelmat ratkaistiin ja mitä itse asiassa opittiin.>
-< Kerro johdannossa aluksi lyhyesti mihin projektiin tämä dokumentti liittyy, mitä osapuolia projektissa oli mukana (projektin organisaatio) ja mikä on tämän dokumentin tarkoitus ja sisältö>
+* Loppuraportissa tulee ensisijaisesti vastata kysymyksiin: mitä ja miten tehtiin, miksi tehtiin, missä onnistuttiin, mikä meni pieleen, miksi ja miten ongelmat ratkaistiin ja mitä itse asiassa opittiin.
+* Kerro johdannossa aluksi lyhyesti mihin projektiin tämä dokumentti liittyy, mitä osapuolia projektissa oli mukana (projektin organisaatio) ja mikä on tämän dokumentin tarkoitus ja sisältö
 
 #2.	TEHTÄVÄ, TAVOITE, TULOKSET
 ##2.1.	Yhteenveto projektin toteumasta
-<Koko projektin toteuma (projektisuunnitelman tavoitteisiin ja tehtäviin peilaten): mitä piti tehdä (eli kertokaa ensin lyhyesti projektin tavoite/tarkoitus), mitä tehtiin (liitteenä voi olla projektin tulosten yhteenveto), miten onnistuttiin>
+* Koko projektin toteuma (projektisuunnitelman tavoitteisiin ja tehtäviin peilaten): mitä piti tehdä (eli kertokaa ensin lyhyesti projektin tavoite/tarkoitus), mitä tehtiin (liitteenä voi olla projektin tulosten yhteenveto), miten onnistuttiin
 ##2.2.	 Projektin onnistuminen (suunnitelma vs. toteutuma)
-<Projektiprosessin osalta raportissa esitellään ainakin seuraavat asiakokonaisuudet:
+* Projektiprosessin osalta raportissa esitellään ainakin seuraavat asiakokonaisuudet:
 •	prosessin rakenne: vaiheet ja tehtävät, niiden toteutusperiaatteet ja aikataulut
 •	projektin sisäiset aikaresurssit: suunnitellut ja toteutuneet vaiheittain ja viikoit-tain, jakauma tehtävittäin (varsinainen sisältö ja projektin hallinta)
 •	projektin ulkopuoliset resurssit: konsultaatiot, koulutus, katselmoinnit, testaukset jne.>
 
 #3.	ONGELMAT JA NIIDEN RATKAISUT
-< ongelmat projektin suunnittelussa ja toteutuksessa (mistä johtui, miten ratkaistiin, mitä olisi pitänyt tehdä toisin ja miten)>
+* ongelmat projektin suunnittelussa ja toteutuksessa (mistä johtui, miten ratkaistiin, mitä olisi pitänyt tehdä toisin ja miten)>
 
 ##3.1.	Ongelmat suunnittelussa
 ##3.2.	Ongelmat toteutuksessa
@@ -20,10 +20,10 @@
 
 #4.	YHTEENVETO
 ##4.1.	Keskeiset opit
-<Opitut asiat esim. henkilöittäin ja/tai vaiheittain> 
-<Mainitkaa myös hyvin toimineet työskentelytavat, työkalut ja menetelmät (nk. best practises)>
+* Opitut asiat esim. henkilöittäin ja/tai vaiheittain> 
+* Mainitkaa myös hyvin toimineet työskentelytavat, työkalut ja menetelmät (nk. best practises)>
 ##4.2.	Itsearviointi
-<Arvioikaa seuraavia:
+* Arvioikaa seuraavia:
 ###4.2.1.	Ryhmätyö
 •	projektipäällikkyys (ei henkilöön kohdistuvaa, vaan yleisemmällä tasolla)
 •	erilaisuuden hyödyntäminen
@@ -80,7 +80,8 @@ Tulosta on kaikki, mitä projekti tavoitteellisesti tarjoaa ryhmän ulkopuoliste
 •	tulosten arvo organisaatiolle ja muille tahoille
 •	jatkotoimenpiteet>
 ##4.3.	Arvosanaehdotukset
-<Voitte jakaa arvosanaehdotuksen ryhmän sisällä siten, että joku enemmän töitä tehnyt saisi paremman arvosanan>
+* Mikä on mielestänne arvosana, jonka ansaitsemme em. kriteerien perusteella?
+* Voitte jakaa arvosanaehdotuksen ryhmän sisällä siten, että joku enemmän töitä tehnyt saisi paremman arvosanan (tai työhön vähäisesti osallistunut huonomman)
 
 LÄHTEET
 
