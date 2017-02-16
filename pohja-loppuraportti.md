@@ -10,7 +10,7 @@
 ## 2.2.	 Projektin onnistuminen (suunnitelma vs. toteutuma)
 * Projektiprosessin osalta raportissa esitellään ainakin seuraavat asiakokonaisuudet:
 •	prosessin rakenne: vaiheet ja tehtävät, niiden toteutusperiaatteet ja aikataulut
-•	projektin sisäiset aikaresurssit: suunnitellut ja toteutuneet vaiheittain ja viikoit-tain, jakauma tehtävittäin (varsinainen sisältö ja projektin hallinta)
+•	projektin sisäiset aikaresurssit: suunnitellut ja toteutuneet vaiheittain ja viikoittain, jakauma tehtävittäin (varsinainen sisältö ja projektin hallinta)
 •	projektin ulkopuoliset resurssit: konsultaatiot, koulutus, katselmoinnit, testaukset jne.
 
 # 3.	ONGELMAT JA NIIDEN RATKAISUT
@@ -63,7 +63,7 @@
 •	erityiskohderyhmät
 •	ammattikorkeakoululle
 •	muut kohteet ja mediat (jos näkynyt esim. lehdissä, messuilla tms.)
-•	johtoryhmätyöskentely (valmistautuminen, tavoitteiden saavuttaminen, läpi-vienti)
+•	johtoryhmätyöskentely (valmistautuminen, tavoitteiden saavuttaminen, läpivienti)
 •	tehtävän kehittäminen ja rajaukset 
 •	miten tehty?
 •	kenen esityksestä ja millä tiedoilla?
