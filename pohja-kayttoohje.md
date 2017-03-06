@@ -1,5 +1,7 @@
 # Käyttöohjeen runko
 
+![](https://openclipart.org/image/300px/svg_to_png/172690/zoom-in-thin-finger-thump-black.png&disposition=attachment)
+
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris placerat ultrices mi, a imperdiet lacus sollicitudin ut. Pellentesque eget urna in nisi accumsan vulputate id vitae leo. Proin non ex felis. Etiam mi orci, sodales sit amet congue ac, ultrices eget urna. Cras vel hendrerit ex. Pellentesque maximus semper viverra. Vestibulum nec pharetra mi. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse viverra purus at egestas ornare. Ut aliquam ligula id mauris consectetur, sed tempor erat gravida. Vivamus eget nibh metus. Curabitur at velit lacus. Pellentesque nec arcu nibh. Nunc tristique ut lectus non finibus. Nullam ultricies dui enim, imperdiet pretium massa faucibus sed. Sed et mi ante.
 
 
