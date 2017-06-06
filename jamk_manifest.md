@@ -1,6 +1,6 @@
 ## TTOS0800 Ohjelmistoprojekti
 
-###Kurssin sisältö
+### Kurssin sisältö
 
 Opiskelija osallistuu projektiryhmään jäsenenä jossain roolissa ja toteuttaa projektiryhmänsä kanssa aikatauluun sidotun projektityön ja siihen liittyvän projektidokumentaation.
 
